@@ -73,7 +73,7 @@ button {
 <body>
 
 <div class="box" id="app">
-    <img src="SMr3pZe.jpeg" alt="Walentynka">
+    <img src="tuff.jpeg" alt="Walentynka">
     <h1>Czy zostaniesz moją walentynką? 🤔</h1>
     <button id="yes" onclick="yes()">TAK</button>
     <button id="no" onclick="no()">NIE</button>
@@ -108,7 +108,6 @@ function yes() {
     }
 
     document.getElementById("app").innerHTML = `
-        <h1>💖 JESTEŚ MOJA 💖</h1>
         <p>Mega tuff 😎</p>
     `;
 }
