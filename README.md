@@ -1,7 +1,7 @@
 <html lang="pl">
 <head>
 <meta charset="UTF-8">
-<title>Walentynki</title>
+<title>Walentyngki</title>
 
 <style>
 body {
